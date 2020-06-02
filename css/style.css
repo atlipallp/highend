@@ -100,6 +100,7 @@ header a:hover{
     font-size: 20px;
 }
 
+/* Newsletter */
 #newsletter{
     padding:15px;
     color: #ffffff;
@@ -148,14 +149,15 @@ aside#sidebar .inquiries input, aside#sidebar .inquiries textarea{
     width:90%;
     padding:5px;
   }
+
 /* Main-col */
 article#main-col{
     float:left;
     width: 65%;
 }
 
-/* Events */
-ul#events li{
+/* Pricing */
+ul#pricing li{
     list-style: none;
     padding: 20px;
     border: #cccccc solid 1px;
